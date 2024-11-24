@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HYATT_RGENCY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a5407eb4adb575da1015ca846058e33959f5eb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HYATT_RGENCY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HYATT_RGENCY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

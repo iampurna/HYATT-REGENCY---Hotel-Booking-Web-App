@@ -127,3 +127,4 @@
 /Users/purnalungeli/RiderProjects/HYATT_RGENCY/obj/Debug/net8.0/HYATT_RGENCY.pdb
 /Users/purnalungeli/RiderProjects/HYATT_RGENCY/obj/Debug/net8.0/HYATT_RGENCY.genruntimeconfig.cache
 /Users/purnalungeli/RiderProjects/HYATT_RGENCY/obj/Debug/net8.0/ref/HYATT_RGENCY.dll
+/Users/purnalungeli/RiderProjects/HYATT_RGENCY/obj/Debug/net8.0/HYATT_RGENCY.sourcelink.json
